@@ -561,7 +561,7 @@ input[type=number] {
   align-items: center;
   row-gap: 32px;
   padding-top: var(--trainingTypesItemBgIconSize);
-  background: url('./icons/transparent-wrrow-bottom-left.svg') 100% 0/var(--trainingTypesItemBgIconSize) no-repeat;
+  background: url('static/icons/transparent-wrrow-bottom-left.svg') 100% 0/var(--trainingTypesItemBgIconSize) no-repeat;
 }
 
 .training-types-item-title {
