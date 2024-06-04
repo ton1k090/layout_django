@@ -956,6 +956,8 @@ input[type=number] {
   font-size: 14px;
 }
 
+
+
 @media (max-width: 1919px) {
   .motivation-card-image {
     margin-block: -20px;
